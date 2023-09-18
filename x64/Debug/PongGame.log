@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(52,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(59,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(60,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(75,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(133,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\main.cpp(134,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PongGame.vcxproj -> C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\x64\Debug\PongGame.exe

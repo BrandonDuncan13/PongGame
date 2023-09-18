@@ -1,0 +1,3 @@
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\x64\Debug\PongGame.exe
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\x64\Debug\PongGame.vcxproj.CopyComplete
+C:\Users\Brandon Duncan\OneDrive\Desktop\C++\FunProjects\PongGame\x64\Debug\raylib.dll
